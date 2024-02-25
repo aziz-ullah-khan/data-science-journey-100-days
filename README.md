@@ -20,8 +20,9 @@ I'd love to connect with fellow data enthusiasts, learners, and professionals. F
 
 ## Directory Structure
 
-- `day - 00 - challenge outline/`: Outline of the 100 days
-- `day - 04 - combinatorics/`: Combinatorics - permutation, variations, combinations
+- 'day - 00 - challenge outline/': Outline of the 100 days
+- 'day - 04 - combinatorics/': Combinatorics - permutation, variations, combinations
+- 'day - 06 - bayesian inference/': Set, Intersection, Union, Bayes' Law
 
 
 Feel free to explore the code, provide feedback, or even collaborate on projects!
