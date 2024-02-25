@@ -16,7 +16,7 @@ Follow my journey on LinkedIn to stay updated with daily posts:
 I'd love to connect with fellow data enthusiasts, learners, and professionals. Feel free to reach out to me through the following channels:
 
 - **LinkedIn:** [Aziz Ullah Khan](https://www.linkedin.com/in/aziz-ullah-khan/)
-- **Email:** Azizullah444l@example.com
+- **Email:** Azizullah444@gmail.com 
 
 ## Directory Structure
 
